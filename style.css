@@ -1,0 +1,48 @@
+#image {
+  width: 500x;
+  height: 484.44px;
+  margin: 36px 25px 98px 25px;
+  border: 20px;
+  border-radius: 79px;
+}
+
+#Firstdiv {
+  border-radius: 15px;
+  border: 5px solid black;
+  height: 900px;
+  width: 550px;
+}
+
+.keyboard {
+  margin: 0px 150px 40px 34px;
+  font-size: 25px;
+}
+
+.mech {
+  color: brown;
+}
+
+.dol {
+  color: red;
+  font-size: 25px;
+  margin-right: 25px;
+}
+
+.stock {
+  font-size: 25px;
+  margin: 0px 310px 89px 34px;
+}
+
+.new {
+  color: red;
+}
+
+button {
+  background-color: rgb(75, 24, 7);
+  font-size: 30px;
+  border: 2px solid;
+  border-radius: 28px;
+  height: 60px;
+  color: white;
+  margin: 89px 147px 34px 147px;
+}
